@@ -1,0 +1,9 @@
+img,landmark
+img_cropped/000001.jpg,landmark_aligned/000001.csv
+img_cropped/000002.jpg,landmark_aligned/000002.csv
+img_cropped/000005.jpg,landmark_aligned/000005.csv
+img_cropped/000006.jpg,landmark_aligned/000006.csv
+img_cropped/000007.jpg,landmark_aligned/000007.csv
+img_cropped/000008.jpg,landmark_aligned/000008.csv
+img_cropped/000009.jpg,landmark_aligned/000009.csv
+img_cropped/000010.jpg,landmark_aligned/000010.csv
